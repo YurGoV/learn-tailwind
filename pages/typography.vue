@@ -1,25 +1,11 @@
-<script lang="ts">
-// const route = useRoute();
-// const router = useRouter();
-// console.log(route, "route");
-// const goBack = () => {
-//   router.back();
-// };
-// console.log(router, 'router')
-export default defineComponent({
-  setup() {
-    const router = useRouter();
-    console.log(router, "router");
+<script setup lang="ts">
+import { useRouter } from "vue-router";
 
-    const goBack = () => {
-      router.back();
-    };
+const router = useRouter();
 
-    return {
-      goBack,
-    };
-  },
-});
+const goBack = () => {
+  router.back();
+};
 </script>
 <template>
   <div>

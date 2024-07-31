@@ -8,6 +8,7 @@
     <ul>
       <li>
         <NuxtLink to="/typography">Typography page</NuxtLink>
+        <NuxtLink to="/spaces">Spaces page</NuxtLink>
       </li>
     </ul>
   </nav>
