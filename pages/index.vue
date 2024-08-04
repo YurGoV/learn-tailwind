@@ -11,6 +11,7 @@
         <NuxtLink to="/spaces">Spaces page</NuxtLink>
         <NuxtLink to="/flex">Flex page</NuxtLink>
         <NuxtLink to="/grids">Grids page</NuxtLink>
+        <NuxtLink to="/layouts">Layouts page</NuxtLink>
       </li>
     </ul>
   </nav>

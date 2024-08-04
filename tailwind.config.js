@@ -21,6 +21,9 @@ module.exports = {
     //   sm: "15px",
     //   base: "18px",
     // },
+    container: {
+      center: true,
+    },
     extend: {
       colors: {
         mycustom: "#3246a8",
