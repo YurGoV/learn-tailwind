@@ -12,6 +12,7 @@
         <NuxtLink to="/flex">Flex page</NuxtLink>
         <NuxtLink to="/grids">Grids page</NuxtLink>
         <NuxtLink to="/layouts">Layouts page</NuxtLink>
+        <NuxtLink to="/borders">Borders page</NuxtLink>
       </li>
     </ul>
   </nav>
