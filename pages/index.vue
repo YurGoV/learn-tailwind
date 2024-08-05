@@ -13,6 +13,7 @@
         <NuxtLink to="/grids">Grids page</NuxtLink>
         <NuxtLink to="/layouts">Layouts page</NuxtLink>
         <NuxtLink to="/borders">Borders page</NuxtLink>
+        <NuxtLink class="border-2 rounded-md" to="/effects">Effetcs page</NuxtLink>
       </li>
     </ul>
   </nav>
