@@ -15,6 +15,7 @@
         <NuxtLink to="/borders">Borders page</NuxtLink>
         <NuxtLink class="border-2 rounded-md" to="/effects">Effetcs page</NuxtLink>
         <NuxtLink to="/transitions">Transitions page</NuxtLink>
+        <NuxtLink to="/design">Design page</NuxtLink>
       </li>
     </ul>
   </nav>
